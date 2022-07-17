@@ -1,0 +1,25 @@
+    Git and Github
+    GIT: 
+    1) Distributed Version Control System-VCS
+
+    Repository-Collection of versions
+    Cheat sheet most important
+
+    git init
+    rm -rf
+    git status:
+    Untracked file(git add <file>)-Staging area(git commit)-Version
+    git rm --cached <file>
+    dir 
+
+    press i after git (commit, then write message, then press esc and write :wq and enter to quit
+
+    master branch-head(version1s)-v2(file1.txt,file2.txt)
+
+          OR
+    write git -m to avoid opening vim
+
+
+
+    git checkout <id>
+    git checkout master(takes you to latest version )
