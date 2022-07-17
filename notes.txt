@@ -25,3 +25,6 @@ Hey
     git checkout master(takes you to latest version )
 
     We never work on the master branch, we create v.1 work on these and then merge them to the master branch
+
+     git checkout -b
+     git merge <branch>
